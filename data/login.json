@@ -1,0 +1,14 @@
+{
+  "login_001": {
+    "username": "13062910305",
+    "password": "123456",
+    "verifycode": "8888",
+    "msg": "success!"
+  },
+  "login_002": {
+    "username": "13206039163",
+    "password": "12345678",
+    "verifycode": "8888",
+    "msg": "账号不存在!"
+  }
+}
